@@ -1,0 +1,14 @@
+# PostgreSQL logs and dumps
+*.log
+*.sql~
+*.dump
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
